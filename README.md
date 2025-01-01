@@ -14,3 +14,8 @@
 ### Credits
 > Software design: NFMS
 > Programming: Anonymous
+
+
+https://media.discordapp.net/attachments/1321568957622128731/1323842952274907239/Group_21_1.png?ex=6775fc53&is=6774aad3&hm=c39c24e7ab1156b33019d7db0061b8b1c3362bdab242a9ee61975499672424d2&=&format=webp&quality=lossless&width=1296&height=702
+
+https://media.discordapp.net/attachments/1321568957622128731/1323842952606515230/Group_20.png?ex=6775fc53&is=6774aad3&hm=2a693f137da17b253ad4c2d3f752336ed84d5308936589847409b11c78a09fcf&=&format=webp&quality=lossless
